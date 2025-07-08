@@ -1,5 +1,5 @@
 package org.example;
-
+import org.junit.Test;
 import org.apache.commons.lang3.StringUtils;
 
 public class Main {
